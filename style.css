@@ -1,0 +1,1060 @@
+*{
+    margin: 0px;
+    font-family: Arial;
+    border: border-box;
+}
+/* for nav bar */
+.fixedbar{
+    position: fixed;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 52px;
+    background-color:#EDDAA8;
+    align-items: center;
+    justify-content: center;
+}
+.FB1{
+    font-weight: 559;
+    font-size: 14px;
+    font-stretch:expanded;
+    color: #3C3729;
+    height:16px;
+    width: 225px;
+}
+.mobmen{
+    display: flex;
+    align-items: center;
+}
+.FB2{
+    font-weight: 545px;
+    font-size: 14px;
+    width: 162.09px;
+    height: 16px;
+    color: #3C3729;
+}
+.invenbox{
+    height: 28px;
+    width: 110px;
+    background-color: black;
+    border-radius: 6%;
+    margin-left: 12px;
+    align-content: center;
+    justify-items: center;
+}
+.view{
+    color: #D4D5D5;
+    font-size: 12px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.null{
+    height: 52px;
+
+}
+/* --------------------------------- */
+/*  car background*/
+.bg{
+    background-image: url(./full\ cropped\ copy5\ copy.jpg);
+    background-size: 100% 100%;
+    
+    background-repeat:no-repeat;
+    
+}
+
+/* nav bar */
+
+
+.navbar{
+    display: flex;
+    width: 100%;
+    height: 56px;
+    justify-content:space-between;
+}
+
+.logob1{
+
+    width: 152px;
+    align-items: center;
+    justify-items: center;
+    align-content: center;
+}
+
+.teslogo{
+    background-image:url(./logo3.png);
+    background-size: cover;
+    width: 113px;
+   height: 20px ;
+}
+.menu{
+    display: none;
+}
+.ele{
+    display: flex;
+    color: white;
+    align-items: center;
+    font-weight:bold ;
+    font-size: 14px;
+    margin-right: 40px;
+}
+.ele1{
+    display: flex;
+}
+
+.ene{
+    padding-left: 27px;
+}
+
+.char{
+    padding-left: 27px;
+}
+.dis{
+    padding-left: 27px;
+}
+.shop{
+    padding-left: 27px;
+}
+.navicons{
+    display: flex;
+    padding-right: 30px;
+}
+
+.icon1{
+    align-content: center;
+    font-size: 20px;
+}
+
+.icon2{
+    align-content: center;
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+.icon3{
+    align-content: center;
+    font-size: 18px;
+    padding-left: 20px;
+}
+
+/* -----------------------------------*/
+
+.main1{
+  border: transparent 2px solid;
+  height:22px;
+  width: 1px;
+}
+/*-----------*/
+/* declare 1st box */
+.writ{
+    text-align: center;
+    font-family: sans-serif;
+    padding-left: 9px;
+    padding-top: 25px;
+    font-size: 35px;
+    color: white;
+}
+.undb{
+    justify-items: center;
+}
+.und{
+    align-content: center;
+    border-bottom: white 2px solid;
+    font-size: 38px;
+    color: white;
+    font-weight: 550;
+}
+
+.rate{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    margin-top: 5px;
+    padding-right: 10px;
+}
+
+.mainbox{
+    justify-content: center;
+    display: flex;
+    margin-top: 10px;
+}
+
+.box1{
+    width: 252px;
+    height: 40px;
+    background-color: #3E6AE1;
+    border-radius: 5px;
+    margin-top: 10px;
+    align-content: center;
+    justify-items: center;
+    
+}
+
+.bx1{
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.box2{
+    width: 252px;
+    height: 40px;
+    background-color: white;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 25px;
+    justify-items: center;
+    align-content: center;
+}
+.bx2{
+    font-size: 15px;   
+    font-weight: 600; 
+    color: #515358;
+}
+/*------------*/
+.dec2{
+    padding-top: 475px;
+}
+.writ1{
+    text-align: center;
+    font-family: sans-serif;
+    padding-top: 24px;
+    font-size: 25px;
+    color: white;
+}
+
+.rate1{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    margin-top: px;
+    padding-right: 18px; 
+}
+
+.mainbox1{
+    margin-top: 430px;
+    justify-content: center;
+    display: flex;
+}
+/*dec3*/
+.dec3{
+ justify-items: center;
+ padding-top: 130px;
+
+}
+.logob2{
+    width: 400px;
+    height: 100px;
+    align-items: center;
+}
+.cyberlogo{
+    background-image: url(./tesla-cybertruck-seeklogo.png);
+    background-size: cover;
+    height: 100px;
+}
+
+.mainbox2{
+    margin-top: 380px;
+    justify-content: center;
+    display: flex;
+}
+.boxa1{
+    width: 250px;
+    height: 38px;
+    background-color: #1F1513;
+    border-radius: px;
+    margin-top: 10px;
+    align-content: center;
+    justify-items: center;
+}
+.bxa1{
+    color: #A29999;
+    font-size: 15px;
+    font-weight: 600;
+}
+.bxa2{
+    font-size: 15px;   
+    font-weight: 600; 
+    color: #A29999;
+}
+.boxa2{
+    width: 250px;
+    height: 38px;
+    background-color: #1F1513;
+    border-radius: px;
+    margin-top: 10px;
+    margin-left: 40px;
+    justify-items: center;
+    align-content: center;
+}
+.rate2{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    margin-top: 8px;
+    padding-right: 5px; 
+}
+/*---------*/
+/*dec4*/
+ .dec4{
+    margin-top: 78px;
+ }
+
+ .writ2{
+    text-align: center;
+    font-family: sans-serif;
+    padding-top: 24px;
+    padding-left: 3px;
+    font-size: 29px;
+    color: white;
+ }
+
+ .und1{
+    align-content: center;
+    border-bottom: white 2px solid;
+    font-size: 28px;
+    color: white;
+    font-weight: 550;
+ }
+
+.rate3{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    margin-top: 5px;
+    padding-left: 5px;
+}
+
+/*-------------*/
+/*dec5*/
+.dec5{
+    margin-top:  60px;
+}
+.rate4{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    color: white;
+    margin-top: 5px;
+}
+.und2{
+    align-content: center;
+    border-bottom: white 2px solid;
+    font-size: 19px;
+    color: white;
+    font-weight: 550;
+}
+.mainbox3{
+    margin-top: 370px;
+    justify-content: center;
+    display: flex;
+}
+/*---------------*/
+/*dec6*/
+.dec6{
+    margin-top: 69px;
+}
+.nl{
+    color: white;
+    padding-top: 11px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+}
+.undb1{
+    display:flex;
+    justify-content: center;
+    gap: 10px;
+    font-size: 20px;
+    padding-top: 5px;
+}
+.und3{
+    font-weight: 600;
+    color: white;
+}
+.und3a{
+    align-content: center;
+    border-bottom: white 2px solid;
+    font-size: 15px;
+    color: white;
+    font-weight: 600;
+}
+.mainbox4{
+    margin-top: 350px;
+    justify-content: center;
+    display: flex;
+}
+/*-----------*/
+
+.dec7{
+    margin-top: 125px;
+}
+.und3b{
+    align-content: center;
+    border-bottom: white 2px solid;
+    font-size: 30px;
+    color: white;
+    font-weight: 600;
+}
+.mainbox5{
+    margin-top: 400px;
+    justify-content: center;
+    display: flex;
+}
+/*--------------*/
+.dec8{
+    margin-top: 100px;
+}
+.dec9{
+    margin-top: 85px;
+}
+.mainbox6{
+    margin-top: 400px;
+    justify-content: center;
+    display: flex;
+}
+.dec10{
+    margin-top: 87px;
+}
+.writmob{
+    text-align: center;
+    font-family: sans-serif;
+    padding-top: 24px;
+    padding-left: 3px;
+    font-size: 29px;
+    color: white;
+}
+.mainbox7{
+    margin-top: 400px;
+    justify-content: center;
+    display: flex;
+}
+.vid1{
+    position: relative;
+    width: 100%;
+}
+
+.footer{
+    justify-items: center;
+    height:100%;
+    width: 100%;
+    background-color: white;
+}
+.para1{
+    margin-top: 50px;
+    font-size: 13px;
+    color: #5C5E62;
+    text-align: center;
+    width: 610.891px;
+    line-height: 18px;
+    height: 500px;
+}
+.p2{
+    margin-top: 15px;
+}
+.vid{
+    width:100%
+}
+.vidm{
+    display: none;
+}
+
+.watermark{
+    font-size: large;
+    text-decoration: underline;
+}
+
+.Schedule{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 52px;
+    width: 100%;
+    background-color: white;
+    position: fixed;
+    bottom: 0;;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+}
+.carstr{
+    width: 23px;
+    height: 23px;
+}
+.content{
+    background-image: url(./kisspng-car-motor-vehicle-steering-wheels-ship-s-wheel-washing-5b04c1d5ac8bd9.0164207715270384217068.png);
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    
+}
+.today{
+    font-size: 17px;
+    font-weight: 600;
+    color: #56585D;
+    font-family: sans-serif;
+    margin-left: 10px;
+    margin-top: 4px;
+}
+
+
+
+
+
+
+@media(max-width:450px){
+    *{
+        margin: 0px;
+        font-family: Arial;
+        border: border-box;
+    }
+    /* for nav bar */
+    .fixedbar{
+        position: fixed;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        width: 100%;
+        height: 72px;
+        background-color:#EDDAA8;
+        align-items: center;
+        justify-content: center;
+    }
+    .FB1{
+        font-weight: 559;
+        font-size: 14px;
+        font-stretch:expanded;
+        color: #3C3729;
+        height:16px;
+        width: 225px;
+    }
+    .FB2{
+        font-weight: 545px;
+        font-size: 14px;
+        width: 162.09px;
+        height: 16px;
+        color: #3C3729;
+    }
+    .mobmen{
+        display: flex;
+    }
+    .invenbox{
+        height: 20px;
+        width: 85px;
+        background-color: transparent;
+        border-bottom: black 1px solid;
+        border-radius: 6%;
+        align-content: center;
+        justify-items: center;
+        margin-left: 0%;
+    }
+    .view{
+        color: #3C3729;
+        font-size: 12px;
+        font-family: sans-serif;
+        font-weight: bold;
+    }
+    .null{
+        height: 72px;
+    
+    }
+    /* --------------------------------- */
+    /*  car background*/
+    .bg{
+        background-image: url(./Homepage-Model-Y-Mobile-NA-v3\ copyfull.png);
+        background-size: 100% 100% ;
+        height: 6800px;
+        background-repeat:no-repeat;
+        
+    }
+    
+    /* nav bar */
+    
+    
+    .navbar{
+        display: flex;
+        width: 100%;
+        height: 56px;
+        justify-content:space-between;
+        align-items: center;
+    }
+    
+    .logob1{
+    
+        width: 152px;
+        align-items: center;
+        justify-items: center;
+        align-content: center;
+    }
+    
+    .teslogo{
+        background-image:url(./logo3.png);
+        background-size: cover;
+        width: 113px;
+       height: 20px ;
+    }
+    .menu>p{
+            color: white;
+            opacity: 100%;
+        }
+    .menu{
+        display:block;
+        background-color:transparent;
+        margin-right: 15px;
+        width: 69px;
+        height: 32px;
+        justify-items: center;
+        align-content: center;
+    }
+   
+    .ele{
+        display: none;
+        color: white;
+        align-items: center;
+        font-weight:bold ;
+        font-size: 14px;
+        margin-right: 40px;
+    }
+    .ele1{
+        display: flex;
+    }
+    
+    .ene{
+        padding-left: 27px;
+    }
+    
+    .char{
+        padding-left: 27px;
+    }
+    .dis{
+        padding-left: 27px;
+    }
+    .shop{
+        padding-left: 27px;
+    }
+    .navicons{
+        display: none;
+        padding-right: 30px;
+    }
+    
+    .icon1{
+        align-content: center;
+        font-size: 20px;
+    }
+    
+    .icon2{
+        align-content: center;
+        font-size: 20px;
+        padding-left: 20px;
+    }
+    
+    .icon3{
+        align-content: center;
+        font-size: 18px;
+        padding-left: 20px;
+    }
+    
+    /* -----------------------------------*/
+    
+    .main1{
+      border: transparent 2px solid;
+      height: 33px;
+      width: 1px;
+    }
+    /*-----------*/
+    /* declare 1st box */
+    .writ{
+        margin-left: 10px;
+        margin-right: 10px;
+        text-align: center;
+        font-family: sans-serif;
+        padding-left: 9px;
+        padding-top: 55px;
+        font-size: 23px;
+        color: white;
+    }
+    .undb{
+        justify-items: center;
+    }
+    .und{
+        margin-left: 10px;
+        margin-right: 10px;
+        align-content: center;
+        border-bottom: white 2px solid;
+        font-size: 28px;
+        color: white;
+        font-weight: 550;
+    }
+    
+    .rate{
+        margin-left: 10px;
+        margin-right: 10px;
+        text-align: center;
+        font-size: 18px;
+        font-weight: bold;
+        color: white;
+        margin-top: 5px;
+        padding-right: 10px;
+    }
+    
+    .mainbox{
+        justify-content: center;
+        display: flex;
+        margin-top: 10px;
+    }
+    
+    .box1{
+        margin-left: 15px;
+        width: 252px;
+        height: 40px;
+        background-color: #3E6AE1;
+        border-radius: 5px;
+        margin-top: 10px;
+        align-content: center;
+        justify-items: center;
+        
+    }
+    
+    .bx1{
+        color: white;
+        font-size: 15px;
+        font-weight: 600;
+    }
+    
+    .box2{
+        margin-right: 15px;
+        width: 252px;
+        height: 40px;
+        background-color: white;
+        border-radius: 5px;
+        margin-top: 10px;
+        margin-left: 25px;
+        justify-items: center;
+        align-content: center;
+    }
+    .bx2{
+        font-size: 15px;   
+        font-weight: 600; 
+        color: #515358;
+    }
+    /*------------*/
+    .dec2{
+        padding-top: 420px;
+    }
+    .writ1{
+        margin-left: 10px;
+        margin-right: 10px;
+        text-align: center;
+        font-family: sans-serif;
+        padding-top: 24px;
+        font-size: 25px;
+        color: white;
+    }
+    
+    .rate1{
+        margin-left: 10px;
+        margin-right: 10px;
+        text-align: center;
+        font-size: 20px;
+        font-weight: bold;
+        color: white;
+        margin-top: px;
+        padding-right: 18px; 
+    }
+    
+    .mainbox1{
+        margin-top: 490px;
+        justify-content: center;
+        display: flex;
+    }
+    /*dec3*/
+    .dec3{
+     justify-items: center;
+     padding-top: 130px;
+    
+    }
+    .logob2{
+        width: 300px;
+        height: 100px;
+        align-items: center;
+    }
+    .cyberlogo{
+        background-image: url(./tesla-cybertruck-seeklogo.png);
+        background-size: cover;
+        height: 80px;
+    }
+    
+    .mainbox2{
+        margin-top: 380px;
+        justify-content: center;
+        display: flex;
+    }
+    .boxa1{
+        margin-left: 10px;
+        width: 250px;
+        height: 38px;
+        background-color: #1F1513;
+        border-radius: px;
+        margin-top: 10px;
+        align-content: center;
+        justify-items: center;
+    }
+    .bxa1{
+        color: #A29999;
+        font-size: 15px;
+        font-weight: 600;
+    }
+    .bxa2{
+        font-size: 15px;   
+        font-weight: 600; 
+        color: #A29999;
+    }
+    .boxa2{
+        margin-right: 10px;
+        width: 250px;
+        height: 38px;
+        background-color: #1F1513;
+        border-radius: px;
+        margin-top: 10px;
+        margin-left: 40px;
+        justify-items: center;
+        align-content: center;
+    }
+    .rate2{
+        margin-left: 10px;
+        margin-right: 10px;
+        text-align: center;
+        font-size: 15px;
+        font-weight: bold;
+        color: black;
+        margin-top: 8px;
+        padding-right: 5px; 
+    }
+    /*---------*/
+    /*dec4*/
+     .dec4{
+        margin-top: 78px;
+     }
+    
+     .writ2{
+        margin-left: 10px;
+        margin-right: 10px;
+        text-align: center;
+        font-family: sans-serif;
+        padding-top: 24px;
+        padding-left: 3px;
+        font-size: 25px;
+        color: white;
+     }
+    
+     .und1{
+        align-content: center;
+        border-bottom: white 2px solid;
+        font-size: 28px;
+        color: white;
+        font-weight: 550;
+     }
+    
+    .rate3{
+        margin-left: 10px;
+        margin-right: 10px;
+        text-align: center;
+        font-size: 20px;
+        font-weight: bold;
+        color: white;
+        margin-top: 5px;
+        padding-left: 5px;
+    }
+    
+    /*-------------*/
+    /*dec5*/
+    .dec5{
+        margin-top:  85px;
+    }
+    .rate4{
+        margin-left: 10px;
+        margin-right: 10px;
+        text-align: center;
+        font-size: 40px;
+        font-weight: 600;
+        color: white;
+        margin-top: 5px;
+    }
+    .und2{
+        align-content: center;
+        border-bottom: white 2px solid;
+        font-size: 19px;
+        color: white;
+        font-weight: 550;
+    }
+    .mainbox3{
+        margin-top: 390px;
+        justify-content: center;
+        display: flex;
+    }
+    /*---------------*/
+    /*dec6*/
+    .dec6{
+        margin-top: 85px;
+    }
+    .nl{
+        margin-left: 10px;
+        margin-right: 10px;
+        color: white;
+        padding-top: 11px;
+        text-align: center;
+        font-size: 15px;
+        font-weight: 600;
+    }
+    .undb1{
+        display:flex;
+        justify-content: center;
+        gap: 10px;
+        font-size: 20px;
+        padding-top: 5px;
+    }
+    .und3{
+        font-weight: 600;
+        color: white;
+    }
+    .und3a{
+        align-content: center;
+        border: 0cap;
+        font-size: 15px;
+        color: white;
+        font-weight: 600;
+    }
+    .mainbox4{
+        margin-top: 390px;
+        justify-content: center;
+        display: flex;
+    }
+    /*-----------*/
+    
+    .dec7{
+        margin-top: 110px;
+    }
+    .und3b{
+        align-content: center;
+        border-bottom: white 2px solid;
+        font-size: 20px;
+        color: white;
+        font-weight: 600;
+    }
+    .mainbox5{
+        margin-top: 410px;
+        justify-content: center;
+        display: flex;
+    }
+    /*--------------*/
+    .dec8{
+        margin-top: 105px;
+    }
+    .dec9{
+        margin-top: 100px;
+    }
+    .writmob{
+        margin-left: 10px;
+        margin-right: 10px;
+        text-align: center;
+        font-family: sans-serif;
+        padding-top: 24px;
+        padding-left: 3px;
+        font-size: 25px;
+        color: white;
+    }
+    .mainbox6{
+        margin-top: 440px;
+        justify-content: center;
+        display: flex;
+    }
+
+    .dec10{
+        margin-top: 100px;
+    }
+    .mainbox7{
+        margin-top: 450px;
+        justify-content: center;
+        display: flex;
+    }
+    .vid1{
+        
+        position: relative;
+        width: 100%;
+    }
+    .vidm1{
+        position: relative;
+        width: 100%;
+    }
+    
+    .footer{
+        padding-bottom: 100px;
+        justify-items: center;
+        height:100%;
+        width: 100%;
+        background-color: white;
+    }
+    .para1{
+        margin-top: 50px;
+        font-size: 13px;
+        color: #5C5E62;
+        text-align: center;
+        width: 100%;
+        line-height: 18px;
+        height: 500px;
+    }
+    .para1>p{
+        margin-left: 12px;
+        margin-right: 12px;
+    }
+    .p2{
+        margin-top: 25px;
+    }
+    .vid{
+        display: none;
+        width:100%
+    }
+    .vidm{
+        display: block;
+        width:100%
+    }
+    
+    .watermark{
+        font-size: 10px;
+        text-decoration: underline;
+    }
+    .Schedule{
+        
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        height: 52px;
+        width: 100%;
+        background-color: white;
+        position: fixed;
+        bottom: 0;;
+        border-top-left-radius: 10%;
+        border-top-right-radius: 10%;
+    }
+    .carstr{
+        width: 23px;
+        height: 23px;
+    }
+    .content{
+        background-image: url(./kisspng-car-motor-vehicle-steering-wheels-ship-s-wheel-washing-5b04c1d5ac8bd9.0164207715270384217068.png);
+        background-size: cover;
+        height: 100%;
+        width: 100%;
+        
+    }
+    .today{
+        font-size: 17px;
+        font-weight: 600;
+        color: #56585D;
+        font-family: sans-serif;
+        margin-left: 10px;
+        margin-top: 4px;
+    }
+}
