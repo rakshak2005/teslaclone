@@ -590,6 +590,7 @@
     }
     
     .teslogo{
+        margin-left: 20px;
         background-image:url(./logo3.png);
         background-size: cover;
         width: 113px;
@@ -676,7 +677,8 @@
         color: white;
     }
     .undb{
-        justify-items: center;
+        display: grid;
+          place-items: center;
     }
     .und{
         margin-left: 10px;
@@ -706,6 +708,8 @@
     }
     
     .box1{
+        display: grid;
+        place-items: center;
         margin-left: 15px;
         width: 252px;
         height: 40px;
@@ -713,17 +717,20 @@
         border-radius: 5px;
         margin-top: 10px;
         align-content: center;
-        justify-items: center;
+        
         
     }
     
     .bx1{
+        
         color: white;
         font-size: 15px;
         font-weight: 600;
     }
     
     .box2{
+        display: grid;
+    place-items: center;
         margin-right: 15px;
         width: 252px;
         height: 40px;
@@ -771,6 +778,8 @@
     }
     /*dec3*/
     .dec3{
+        display: grid;
+    place-items: center;
      justify-items: center;
      padding-top: 130px;
     
@@ -792,6 +801,8 @@
         display: flex;
     }
     .boxa1{
+        display: grid;
+    place-items: center;
         margin-left: 10px;
         width: 250px;
         height: 38px;
@@ -812,6 +823,8 @@
         color: #A29999;
     }
     .boxa2{
+        display: grid;
+    place-items: center;
         margin-right: 10px;
         width: 250px;
         height: 38px;
