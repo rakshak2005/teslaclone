@@ -260,7 +260,6 @@
     display: flex;
 }
 .boxa1{
-    border-top: #A29999 1mm solid;
     width: 250px;
     height: 38px;
     background-color: #1F1513;
@@ -280,7 +279,6 @@
     color: #A29999;
 }
 .boxa2{
-    border-top: #A29999 1mm solid;
     width: 250px;
     height: 38px;
     background-color: #1F1513;
