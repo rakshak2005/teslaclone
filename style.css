@@ -663,7 +663,7 @@
     
     .main1{
       border: transparent 2px solid;
-      height: 29px;
+      height: 33px;
       width: 1px;
     }
     /*-----------*/
@@ -803,7 +803,6 @@
         display: flex;
     }
     .boxa1{
-        border-top: #A29999 1mm solid;
         display: grid;
     place-items: center;
         margin-left: 10px;
@@ -826,7 +825,6 @@
         color: #A29999;
     }
     .boxa2{
-        border-top: #A29999 1mm solid;
         display: grid;
     place-items: center;
         margin-right: 10px;
